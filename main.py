@@ -10,5 +10,6 @@ form.setupUi(window)
 window.show()
 
 # Your code here
+form.label.setText("42")
 
 app.exec_()
