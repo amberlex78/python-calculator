@@ -9,7 +9,7 @@ form = Form()
 form.setupUi(window)
 window.show()
 
-# Your code here
-form.label.setText("42")
+# Fixed margin for label
+form.label.setContentsMargins(10, 0, 10, 0)
 
 app.exec_()
