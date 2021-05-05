@@ -17,5 +17,5 @@ PyQt version:  5.15.4
 
 Go to directory project and run:
 ~~~
-python3 calculate
+python3 main.py
 ~~~
