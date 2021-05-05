@@ -10,6 +10,6 @@ form.setupUi(window)
 window.show()
 
 # Fixed margin for label
-form.label.setContentsMargins(10, 0, 10, 0)
+form.lbl_display.setContentsMargins(10, 0, 10, 0)
 
 app.exec_()
