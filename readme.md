@@ -19,3 +19,5 @@ Go to directory project and run:
 ~~~
 python3 main.py
 ~~~
+
+![#calc](calc.png)
